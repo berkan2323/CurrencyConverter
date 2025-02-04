@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>New item - 2</key>
+		<string></string>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<false/>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item - 4</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+		<key>New item - 5</key>
+		<string></string>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>New item - 6</key>
+		<string></string>
+		<key>UIApplicationPreferredDefaultSceneSessionRole</key>
+		<string>UIWindowSceneSessionRoleApplication</string>
+		<key>New item - 7</key>
+		<string></string>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleExternalDisplay</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string></string>
+					<key>UISceneDelegateClassName</key>
+					<string></string>
+					<key>UISceneConfigurationName</key>
+					<string></string>
+					<key>UISceneStoryboardFile</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>UIWindowSceneSessionRoleExternalDisplayNonInteractive</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string></string>
+					<key>UISceneDelegateClassName</key>
+					<string></string>
+					<key>UISceneConfigurationName</key>
+					<string></string>
+					<key>UISceneStoryboardFile</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>UIWindowSceneSessionRoleVolumetricApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string></string>
+					<key>UISceneDelegateClassName</key>
+					<string></string>
+					<key>UISceneConfigurationName</key>
+					<string></string>
+					<key>UISceneStoryboardFile</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string></string>
+					<key>New item - 2</key>
+					<string></string>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>New item - 3</key>
+					<string></string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>New item - 4</key>
+					<string></string>
+					<key>UISceneInitialImmersionStyle</key>
+					<string>UIImmersionStyleMixed</string>
+					<key>New item - 5</key>
+					<string></string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+					<key>New item - 6</key>
+					<string></string>
+					<key>New item</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
